@@ -4,25 +4,25 @@
 
 const quickAccess = [
 
-{
-    name:"GitHub Profile",
-    url:"https://github.com/Divyanshu-crv"
-},
+    {
+        name: "GitHub Profile",
+        url: "https://github.com/Divyanshu-crv"
+    },
 
-{
-    name:"CodePen",
-    url:"https://codepen.io/pen"
-},
+    {
+        name: "CodePen",
+        url: "https://codepen.io/pen"
+    },
 
-{
-    name:"Excalidraw",
-    url:"https://excalidraw.com/"
-},
+    {
+        name: "Excalidraw",
+        url: "https://excalidraw.com/"
+    },
 
-{
-    name:"Boilerplates",
-    url:"https://divyanshu-crv.github.io/snippet/"
-}
+    {
+        name: "Boilerplates",
+        url: "https://divyanshu-crv.github.io/snippet/"
+    }
 
 ];
 
@@ -33,88 +33,109 @@ const quickAccess = [
 
 const sections = [
 
-{
-    title:"Git & GitHub",
-    icon:"🚀",
+    {
+        title: "Git & GitHub",
+        icon: "🚀",
 
-    links:[
-        {
-            name:"GitHub Profile",
-            url:"https://github.com/Divyanshu-crv"
-        }
-    ],
+        links: [
+            {
+                name: "GitHub Profile",
+                url: "https://github.com/Divyanshu-crv"
+            }
+        ],
 
-    commands:[
-        "git init",
-        "git add .",
-        "git commit -m \"update\"",
-        "git push origin main"
-    ],
+        commands: [
+            "git init",
+            "git add .",
+            "git commit -m \"update\"",
+            "git push origin main"
+        ],
 
-    notes:[]
-},
+        notes: []
+    },
 
-{
-    title:"Code Sharing",
-    icon:"🧩",
+    {
+        title: "Code Sharing",
+        icon: "🧩",
 
-    links:[
-        {
-            name:"CodePen",
-            url:"https://codepen.io/pen"
-        },
+        links: [
+            {
+                name: "CodePen",
+                url: "https://codepen.io/pen"
+            },
 
-        {
-            name:"PasteCode",
-            url:"https://pastecode.io/"
-        },
+            {
+                name: "PasteCode",
+                url: "https://pastecode.io/"
+            },
 
-        {
-            name:"Excalidraw",
-            url:"https://excalidraw.com/"
-        }
-    ],
+            {
+                name: "Excalidraw",
+                url: "https://excalidraw.com/"
+            }
+        ],
 
-    commands:[],
+        commands: [],
 
-    notes:[]
-},
+        notes: []
+    },
 
-{
-    title:"Tools & Resources",
-    icon:"🛠️",
+    {
+        title: "Tools & Resources",
+        icon: "🛠️",
 
-    links:[
-        {
-            name:"Emmet Cheat Sheet",
-            url:"https://docs.emmet.io/cheat-sheet/"
-        },
+        links: [
+            {
+                name: "Emmet Cheat Sheet",
+                url: "https://docs.emmet.io/cheat-sheet/"
+            },
 
-        {
-            name:"Image Downloader",
-            url:"https://www.toolsbug.com/images-downloader-online.php"
-        }
-    ],
+            {
+                name: "Image Downloader",
+                url: "https://www.toolsbug.com/images-downloader-online.php"
+            }
+        ],
 
-    commands:[],
+        commands: [],
 
-    notes:[]
-},
+        notes: []
+    },
 
-{
-    title:"Documentation",
-    icon:"📚",
+    {
+        title: "Documentation",
+        icon: "📚",
 
-    links:[],
+        links: [
+            {
+                name: "Collection_02 Update Guide",
+                url: "./assets/Collection_02update.pdf"
+            },
 
-    commands:[],
+            {
+                name: "Collection_02 Update Guide",
+                url: "./assets/Collection_02update.docx"
+            },
 
-    notes:[
+            {
+                name: "add multiple files",
+                url: "./assets/add multiple files.docx"
+            },
 
-        {
-            title:"How To Update Collection_02",
+            {
+                name: "add multiple files",
+                url: "./assets/add multiple files.pdf"
+            },
 
-            content:`
+        ],
+
+        commands: [],
+
+        notes: [
+
+            {
+                title: "How To Update Collection_02",
+
+                content: `
 1. Open js/data.js
 
 2. Add links inside links array
@@ -127,27 +148,27 @@ const sections = [
 
 6. git push
             `
-        }
+            }
 
-    ]
-}
-,
-{
-    title:"Documentation",
-    icon:"📚",
+        ]
+    }
+    // ,
+    // {
+    //     title:"Documentation",
+    //     icon:"📚",
 
-    links:[
+    //     links:[
 
-        {
-            name:"Collection_02 Update Guide PDF",
-            url:"./assets/Collection_02update.pdf"
-        }
+    //         {
+    //             name:"Collection_02 Update Guide PDF",
+    //             url:"./assets/Collection_02update.pdf"
+    //         }
 
-    ],
+    //     ],
 
-    commands:[],
+    //     commands:[],
 
-    notes:[]
-}
+    //     notes:[]
+    // }
 
 ];
