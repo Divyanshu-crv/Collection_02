@@ -175,5 +175,69 @@ const sections = [
 
         notes:[]
     }
+    ,
+    {
+        title:"Bookmarks",
+        icon:"🛍️",
+
+        links:[
+
+            {
+                name:"Unsplash",
+                url : "https://unsplash.com/"
+            }
+            ,
+            {
+                name:"Perplexity",
+                url : "https://www.perplexity.ai/"
+            }
+            ,
+            {
+                name:"Fathers Link",
+                url : "https://divyanshu-t.github.io/father-link/"
+            }
+            ,
+            {
+                name:"Quantam Coding",
+                url : "https://github.com/QuantumCoding123"
+            }
+            ,
+            {
+                name:"File CR",
+                url : "https://filecr.com/home/"
+            }
+            ,
+            {
+                name:"I Love Pdf",
+                url : "https://www.ilovepdf.com/"
+            }
+            ,
+            {
+                name:"Discord",
+                url : "https://discord.com/channels/@me"
+            }
+            ,
+            {
+                name:"Notbooklm",
+                url : "https://notebooklm.google/"
+            }
+            ,
+            {
+                name:"Arena",
+                url : "https://arena.ai/"
+            }
+            
+            ,
+            {
+                name:"Remixicon",
+                url:"https://remixicon.com/"
+            }
+
+        ],
+
+        commands:[],
+
+        notes:[]
+    }
 
 ];
