@@ -236,6 +236,11 @@ const sections = [
                 name:"Rajbasha",
                 url:"http://rajbhasha.net/download2/index.php/GoogleInputToolsHindi.exe"
             }
+            ,
+            {
+                name:"Uk Indeed",
+                url:"https://uk.indeed.com/"
+            }
 
         ],
 
