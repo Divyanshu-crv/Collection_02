@@ -93,6 +93,11 @@ const sections = [
             {
                 name: "Image Downloader",
                 url: "https://www.toolsbug.com/images-downloader-online.php"
+            },
+
+            {
+                name: "4K Wallpaper Collection",
+                url: "https://www.reddit.com/r/wallpapers/comments/1csgawf/ultra_high_quality_4k_elitist_wallpapers/" 
             }
         ],
 
