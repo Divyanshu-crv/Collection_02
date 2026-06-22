@@ -131,5 +131,23 @@ const sections = [
 
     ]
 }
+,
+{
+    title:"Documentation",
+    icon:"📚",
+
+    links:[
+
+        {
+            name:"Collection_02 Update Guide PDF",
+            url:"./assets/Collection_02update.pdf"
+        }
+
+    ],
+
+    commands:[],
+
+    notes:[]
+}
 
 ];
