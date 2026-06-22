@@ -226,11 +226,15 @@ const sections = [
                 name:"Arena",
                 url : "https://arena.ai/"
             }
-            
             ,
             {
                 name:"Remixicon",
                 url:"https://remixicon.com/"
+            }
+            ,
+            {
+                name:"Rajbasha",
+                url:"http://rajbhasha.net/download2/index.php/GoogleInputToolsHindi.exe"
             }
 
         ],
