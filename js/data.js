@@ -137,38 +137,38 @@ const sections = [
 
                 content: `
 1. Open js/data.js
-
 2. Add links inside links array
-
 3. Save
-
 4. git add .
-
 5. git commit -m "update"
-
 6. git push
             `
             }
 
         ]
     }
-    // ,
-    // {
-    //     title:"Documentation",
-    //     icon:"📚",
+    ,
+    {
+        title:"My GitHub Projects",
+        icon:"📂",
 
-    //     links:[
+        links:[
 
-    //         {
-    //             name:"Collection_02 Update Guide PDF",
-    //             url:"./assets/Collection_02update.pdf"
-    //         }
+            {
+                name:"Career Command Center",
+                url:"https://divyanshu-crv.github.io/First-Exam-Durign-MCA/"
+            },
 
-    //     ],
+            {
+                name:"To-Do List",
+                url : "https://divyanshu-crv.github.io/to-do/"
+            }
 
-    //     commands:[],
+        ],
 
-    //     notes:[]
-    // }
+        commands:[],
+
+        notes:[]
+    }
 
 ];
