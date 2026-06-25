@@ -86,6 +86,11 @@ const sections = [
 
         links: [
             {
+                name: "Unsplash",
+                url: "https://unsplash.com/"
+            },
+
+            {
                 name: "Emmet Cheat Sheet",
                 url: "https://docs.emmet.io/cheat-sheet/"
             },
@@ -97,7 +102,7 @@ const sections = [
 
             {
                 name: "4K Wallpaper Collection",
-                url: "https://www.reddit.com/r/wallpapers/comments/1csgawf/ultra_high_quality_4k_elitist_wallpapers/" 
+                url: "https://www.reddit.com/r/wallpapers/comments/1csgawf/ultra_high_quality_4k_elitist_wallpapers/"
             }
         ],
 
@@ -154,99 +159,99 @@ const sections = [
     }
     ,
     {
-        title:"My GitHub Projects",
-        icon:"📂",
+        title: "My GitHub Projects",
+        icon: "📂",
 
-        links:[
+        links: [
 
             {
-                name:"Career Command Center",
-                url:"https://divyanshu-crv.github.io/First-Exam-Durign-MCA/"
+                name: "Career Command Center",
+                url: "https://divyanshu-crv.github.io/First-Exam-Durign-MCA/"
             },
 
             {
-                name:"To-Do List",
-                url : "https://divyanshu-crv.github.io/to-do/"
+                name: "To-Do List",
+                url: "https://divyanshu-crv.github.io/to-do/"
             }
 
         ],
 
-        commands:[],
+        commands: [],
 
-        notes:[]
+        notes: []
     }
     ,
     {
-        title:"Bookmarks",
-        icon:"🛍️",
+        title: "Bookmarks",
+        icon: "🛍️",
 
-        links:[
+        links: [
 
             {
-                name:"Unsplash",
-                url : "https://unsplash.com/"
+                name: "Unsplash",
+                url: "https://unsplash.com/"
             }
             ,
             {
-                name:"Perplexity",
-                url : "https://www.perplexity.ai/"
+                name: "Perplexity",
+                url: "https://www.perplexity.ai/"
             }
             ,
             {
-                name:"Fathers Link",
-                url : "https://divyanshu-t.github.io/father-link/"
+                name: "Fathers Link",
+                url: "https://divyanshu-t.github.io/father-link/"
             }
             ,
             {
-                name:"Quantam Coding",
-                url : "https://github.com/QuantumCoding123"
+                name: "Quantam Coding",
+                url: "https://github.com/QuantumCoding123"
             }
             ,
             {
-                name:"File CR",
-                url : "https://filecr.com/home/"
+                name: "File CR",
+                url: "https://filecr.com/home/"
             }
             ,
             {
-                name:"I Love Pdf",
-                url : "https://www.ilovepdf.com/"
+                name: "I Love Pdf",
+                url: "https://www.ilovepdf.com/"
             }
             ,
             {
-                name:"Discord",
-                url : "https://discord.com/channels/@me"
+                name: "Discord",
+                url: "https://discord.com/channels/@me"
             }
             ,
             {
-                name:"Notbooklm",
-                url : "https://notebooklm.google/"
+                name: "Notbooklm",
+                url: "https://notebooklm.google/"
             }
             ,
             {
-                name:"Arena",
-                url : "https://arena.ai/"
+                name: "Arena",
+                url: "https://arena.ai/"
             }
             ,
             {
-                name:"Remixicon",
-                url:"https://remixicon.com/"
+                name: "Remixicon",
+                url: "https://remixicon.com/"
             }
             ,
             {
-                name:"Rajbasha",
-                url:"http://rajbhasha.net/download2/index.php/GoogleInputToolsHindi.exe"
+                name: "Rajbasha",
+                url: "http://rajbhasha.net/download2/index.php/GoogleInputToolsHindi.exe"
             }
             ,
             {
-                name:"Uk Indeed",
-                url:"https://uk.indeed.com/"
+                name: "Uk Indeed",
+                url: "https://uk.indeed.com/"
             }
 
         ],
 
-        commands:[],
+        commands: [],
 
-        notes:[]
+        notes: []
     }
 
 ];
